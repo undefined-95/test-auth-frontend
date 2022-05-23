@@ -1,0 +1,8 @@
+.Text{
+    display: flex;
+    text-align: start;
+    align-items: baseline;
+}
+.text-paragraph{
+    font-family: monospace;
+}

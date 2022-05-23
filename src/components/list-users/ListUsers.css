@@ -1,0 +1,10 @@
+.main-list-users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: auto;
+    max-height: 100vh;
+}
+.card{
+    margin: 10px;
+}

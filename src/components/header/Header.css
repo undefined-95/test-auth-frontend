@@ -1,0 +1,16 @@
+.main-header{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.content-header{
+    display: flex;
+    flex-grow: 1;
+    color: white;
+}
+.menu-header {
+    justify-content: end;
+}
